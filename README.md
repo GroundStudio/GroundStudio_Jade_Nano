@@ -1,5 +1,6 @@
 GroundStudio Jade Nano
 ====================================
+[![Nano cropat la 150 h](https://user-images.githubusercontent.com/77836107/186915967-621bfe71-98eb-468e-8b92-4bcb1a5b485d.png)](https://ardushop.ro/ro/home/1726-placa-de-dezvoltare-jade-nano.html)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/1726-placa-de-dezvoltare-jade-nano.html)
 
@@ -7,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Development board based on ATmega328P and HT42B534-2 for USB comunication.
+ATMEGA328P based development board with 32kBytes of In-System Self-Programmable Flash program memory,  1kBytes EEPROM, 2kBytes Internal SRAM, 6 PWM Channels, 20 Digital Pins and 8 channel 10 bit ADC Pins and HT42B534-2 for USB comunication.
 
 Contents
 -------------------
